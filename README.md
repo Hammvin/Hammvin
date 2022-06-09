@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Hammvin
 - 👀 I’m interested in learning as many languages as possible for web development.
-- 🌱I'm currently ok with PHP, HTML, CSS, BOOTSTRAP.
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking for a chance to collaborate on any project that will hasten my leaning curve in PHP and Javascript.
+- 🌱I'm currently ok with PHP, HTML, CSS, BOOTSTRAP and JavaScript.
+- 💞️ I’m looking for a chance to collaborate on any project that will hasten my leaning curve in PHP, Javascript and React-JavaScript.
 - 📫 Reach me on my email : hammondvin@gmail.com or WhatsApp on : +254-713-618-046
 
 <!---
